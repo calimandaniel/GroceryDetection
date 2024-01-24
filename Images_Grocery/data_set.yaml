@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: D:\Cursuri\Master\Anul II\Semestrul I\Computer Vision\Grocery Detection\GroceryDetection\Images_Grocery\images\train
+val: D:\Cursuri\Master\Anul II\Semestrul I\Computer Vision\Grocery Detection\GroceryDetection\Images_Grocery\images\val
+
+# number of classes
+nc: 11
+
+# class names
+names: ['pack1', 'pack2', 'pack3', 'pack4','pack5', 'pack6','pack7', 'pack8','pack9', 'pack10', 'pack11']
